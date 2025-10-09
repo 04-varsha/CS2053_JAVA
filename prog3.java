@@ -41,10 +41,11 @@ class ElectricCar extends Car{
     }
 }
 
-public class Lab_session_3 {
+public class prog3 {
     public static void main(String[] args) {
         ElectricCar ec = new ElectricCar("Lucid", 2024, "Sapphire", 120);
         ec.display();
     }
 }
+
 
